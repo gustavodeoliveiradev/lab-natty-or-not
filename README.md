@@ -19,8 +19,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Estilo fim de jogo clássico 8-bit
 
 ## 📒 Descrição
 Criei uma música Lo-fi para fim de jogo ao estilo Mega Man 8-bit
@@ -40,7 +39,6 @@ Em seguida fui até o Gemini e pedi para criar uma imagem de fim de jogo vitóri
 
 ## 💭 Reflexão (Opcional)
 Não é tão difícil criar usando IA generativa, mas é importante estar atento ao prompt pra não gerar nada além do necessário. Particularmente gostei bastante do resultado obtido.
-```
 
 ### Exemplos e Insigths
 

@@ -33,7 +33,7 @@ Através do DIO Agent, criei o passo a passo e em seguida acessei o Suno e pedi 
 Em seguida fui até o Gemini e pedi para criar uma imagem de fim de jogo vitória com o Megaman e todos os chefes do jogo em versão anime comemorando a vitória.
 
 ## 🚀 Resultados
-[Apresente os resultados do seu projeto](https://suno.com/s/7fKZXssUTeYxumw9)
+[🎵 Clique aqui para ouvir a música no Suno](https://suno.com/s/7fKZXssUTeYxumw9)
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d1680ca0-b725-4ae5-8f85-6641420a8f6a" />
 
 

@@ -23,19 +23,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei uma música Lo-fi para fim de jogo ao estilo Mega Man 8-bit
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa de música: [Suno]
+- IA Generativa de imagem: [Gemini]
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Através do DIO Agent, criei o passo a passo e em seguida acessei o Suno e pedi uma música estilo lo-fi como se fosse o final do jogo Mega Man 1 em 8-bit. 
+Em seguida fui até o Gemini e pedi para criar uma imagem de fim de jogo vitória com o Megaman e todos os chefes do jogo em versão anime comemorando a vitória.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Apresente os resultados do seu projeto](https://suno.com/s/7fKZXssUTeYxumw9)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d1680ca0-b725-4ae5-8f85-6641420a8f6a" />
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Não é tão difícil criar usando IA generativa, mas é importante estar atento ao prompt pra não gerar nada além do necessário. Particularmente gostei bastante do resultado obtido.
 ```
 
 ### Exemplos e Insigths
